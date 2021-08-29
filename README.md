@@ -1,2 +1,2 @@
 # gcp-account-generator
-Work in progress!!
+Work in progress, stay tuned!!
